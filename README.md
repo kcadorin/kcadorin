@@ -15,6 +15,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Conecte comigo / Connect with me
+[1]: http://www.twitter.com/kaleby GitHub linkedIn
+
+Meus interesses / My stack is:
+☁️ Infraestrutura em nuvem / Cloud Infrastructure
+
+📦 Contêineres / Containers
+
+🚢 Kubernetes
+
+🐧 Linux
+
+🖥️ Unix
+
+📄 Código / Code
+
+🌐 Terraform
+
+🎸 Música / Music
+
+☕ Café / Coffee
+
+🍺 Cerveja / Beer
+
+🍺 Whiskey / Scotch
+
+
 Minhas Estatísticas / My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcadorin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
