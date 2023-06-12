@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Conecte comigo / Connect with me
-<a href="https://twitter.com/kaleby" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-%40a__mioranza-blue?style=flat&logo=twitter&logoColor=white"></a>
-<a href="https://github.com/kcadorin" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-amioranza-black?style=flat&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/kaleby-cadorin/" target="_blank"><img alt="linkedIn" src="https://img.shields.io/badge/-amioranza-blue?style=flat&logo=linkedin&logoColor=white"></a>
+![Twitter URL](https://img.shields.io/twitter/url?label=%40kaleby&style=social&url=https%3A%2F%2Ftwitter.com%2Fkaleby)
 
 Meus interesses / My stack is:
 ☁️ Infraestrutura em nuvem / Cloud Infrastructure
