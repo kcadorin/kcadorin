@@ -21,7 +21,7 @@ Conecte comigo / Connect with me
 
 <a href="https://github.com/kcadorin" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-kcadorin-black?style=flat&logo=github&logoColor=white"></a>
 
-<a href="https://linkedin.com/kaleby-cadorin" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-kaleby--cadorin-blue?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kaleby-cadorin/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-kaleby--cadorin-blue?style=flat&logo=linkedin&logoColor=white"></a>
 
 
 
