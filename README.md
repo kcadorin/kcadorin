@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 Conecte comigo / Connect with me
 
+<a href="https://twitter.com/kcadorin" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=%40kaleby&style=social&url=https%3A%2F%2Ftwitter.com%2Fkaleby"></a>
+
+
 ![https://twitter.com/kaleby](https://img.shields.io/twitter/url?label=%40kaleby&style=social&url=https%3A%2F%2Ftwitter.com%2Fkaleby)
 
 
