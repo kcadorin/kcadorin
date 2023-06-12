@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Conecte comigo / Connect with me
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40kaleby)](https://twitter.com/kaleby) GitHub linkedIn
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40kaleby)](https://twitter.com/kaleby) ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "kcadorin") linkedIn
 
 Meus interesses / My stack is:
 ☁️ Infraestrutura em nuvem / Cloud Infrastructure
