@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 Conecte comigo / Connect with me
 ![Twitter URL](https://img.shields.io/twitter/url?label=%40kaleby&style=social&url=https%3A%2F%2Ftwitter.com%2Fkaleby)
+
 
 Meus interesses / My stack is:
 ☁️ Infraestrutura em nuvem / Cloud Infrastructure
